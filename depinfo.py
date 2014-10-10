@@ -12,6 +12,7 @@ name,license1,license2,pypi_url
 metadata so this provides both. One or both may be missing.)
 
 """
+from __future__ import print_function
 
 import argparse
 import csv
